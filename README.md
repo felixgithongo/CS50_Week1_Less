@@ -1,2 +1,2 @@
-# CS50_Week1_Less
-Mario right leaning pyramids
+# CS50_Week1
+Mario Pyramids
